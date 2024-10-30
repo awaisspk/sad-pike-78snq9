@@ -1,2 +1,2 @@
-# sad-pike-78snq9
+# chime-sdk-test-meeting
 Created with CodeSandbox
